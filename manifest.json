@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "name":"lead tracker",
+    "version":"1.0",
+    "description":"lead tracker extensions",
+    "action":{
+       "default_popup": "lead_tracker.html"
+    },
+    "permissions":[
+        "tabs"
+    ]
+
+}
